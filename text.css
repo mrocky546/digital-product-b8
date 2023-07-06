@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+    .box1{background-color: brown;}
+    .box2{background-color: green;}
+    .box3{background-color: blue;}
+    *box{
+        padding: 20px;
+        width: 110px;
+    }
